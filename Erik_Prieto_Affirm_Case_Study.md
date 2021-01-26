@@ -39,12 +39,16 @@ https://www.crunchbase.com/organization/affirm
 ** What specific financial problem is the company or project trying to solve? **
 
 ** Affirm address several financial problems within the lending section. **
-1.*** Risk-Modeling *** 
-a.	Merchants and lenders are limited in loan origination scope by the data that they have. Affirm models its risk by taking data from the transaction level. By doing so, Affirm is able to identify more consumers, which enables more transactions that the merchant benefits from.
-2.*** Consumer transparency *** 
-b.	Affirm chooses to provide transparency to the consumer by offering the full costs upfront and Affirm will also not charge late fees – essentially enabling a flexible payment plan.
-3.*** Ease of access ***
-c.	Affirm provides access of its loans through partnerships with the merchants. In addition, it provides virtual credit card usages that can be leveraged through its app that essentially offers its plans everywhere (including use through Apple Pay and Google Pay).
+1. Risk-Modeling
+
+Merchants and lenders are limited in loan origination scope by the data that they have. Affirm models its risk by taking data from the transaction level. By doing so, Affirm is able to identify more consumers, which enables more transactions that the merchant benefits from.
+2. Consumer transparency  
+
+Affirm chooses to provide transparency to the consumer by offering the full costs upfront and Affirm will also not charge late fees – essentially enabling a flexible payment plan.
+
+3. Ease of access 
+
+Affirm provides access of its loans through partnerships with the merchants. In addition, it provides virtual credit card usages that can be leveraged through its app that essentially offers its plans everywhere (including use through Apple Pay and Google Pay).
 
 * https://bankautomati https://www.affirm.com/business/blog/consumer-preferences-reportonnews.com/allposts/payments/affirm-rolls-out-virtual-card-for-checkout-loans  *
 
